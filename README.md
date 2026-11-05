@@ -6,5 +6,5 @@ between an attacker, a user, and the monitoring machine.
 - Ubuntu Live Server 2024 (Blue Team Machine)
 - Kali Linux (Red Team Machine)
 - Metasploitable2 (End user)
-
+---
 ![SOC lab network architecture](./soc-lab-architecture.svg)
