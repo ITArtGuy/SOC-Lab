@@ -1,4 +1,4 @@
-# SOC-Lab
+# Security Operations Center Lab
 Hey 👋! Welcome to my SOC Analyst Lab! Here I've created a simulated environment using VirtualBox, where I deployed 3 virtual machines to simulate the interaction
 between an attacker, a user, and the monitoring machine.
 
