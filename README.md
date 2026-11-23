@@ -1,6 +1,5 @@
 # Security Operations Center Lab
-Hey 👋! Welcome to my SOC Analyst Lab! Here I've created a simulated environment using VirtualBox, where I deployed 3 virtual machines to simulate the interaction
-between an attacker, a user, and the monitoring machine.
+Here I deployed three virtual machines using VirtuaBox. The objective is to create an environment where I can simulate the duties of a SOC Analyst. **Goal**: to familiarize myself with Security Analyst tools, such as Snort, Splunk and Wireshark. Documented below is everything I did from setup, execution, capture, to final report; along with issues I solved along the way.
 
 ---
 ## Virtual Machines Used:
