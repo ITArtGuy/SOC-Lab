@@ -6,6 +6,7 @@ A hands-on blue-team project: build a small, isolated SOC environment, attack it
 
 **Tools:** VirtualBox · Kali Linux · Metasploit · Metasploitable2 · Ubuntu Server · Snort 3 · Splunk Free · Wireshark
 
+---
 
 ## Objectives
 
