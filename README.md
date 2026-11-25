@@ -21,6 +21,7 @@ A hands-on blue-team project: build a small, isolated SOC environment, attack it
 ## Lab Architecture
 
 All VMs run on an isolated VirtualBox **host-only network**, with no connection to my home network, so attacks stay fully contained.
+
 *NOTE: Ubuntu VM requires two network adapters. One is the **host-only** and the other is **NAT**, because it needs open internet access to install
 Snort and Splunk.*
 
