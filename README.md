@@ -19,7 +19,7 @@ A hands-on blue-team project: build a small, isolated SOC environment, attack it
 ---
 
 ## Lab Architecture
-![SOC lab network architecture](./soc-lab-architecture.svg)
+
 All VMs run on an isolated VirtualBox **host-only network**, with no connection to my home network, so attacks stay fully contained.
 
 ```
